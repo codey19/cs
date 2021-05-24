@@ -1,4 +1,4 @@
-package algorithm.codey.list;
+package cs.algorithm.codey.list;
 public class LinkedList {
 
     public static void main(String []args) {

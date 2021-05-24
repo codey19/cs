@@ -1,4 +1,4 @@
-package algorithm.codey.list;
+package cs.algorithm.codey.list;
 
 public class Stack {
 

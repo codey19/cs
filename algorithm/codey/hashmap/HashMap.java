@@ -1,4 +1,4 @@
-package algorithm.codey.hashmap;
+package cs.algorithm.codey.hashmap;
 
 public class HashMap {
 

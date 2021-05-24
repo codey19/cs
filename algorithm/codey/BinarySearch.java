@@ -1,4 +1,4 @@
-package algorithm.codey;
+package cs.algorithm.codey;
 
 public class BinarySearch {
     public static int search(int[] arr, int target) {
